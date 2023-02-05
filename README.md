@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Imran Howlader Tipu</h1>
 <h3 align="center">Currently exploring myself in MERN stack Development</h3>
+<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imrantipu&label=Profile%20views&color=0e75b6&style=flat" alt="imrantipu" /> </p>
 
@@ -7,7 +8,7 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 💬 Ask me about **MEARN**
+- 💬 Ask me about **MERN**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
